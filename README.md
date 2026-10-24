@@ -254,11 +254,13 @@ By representing classroom obstacles as polygons, triangulating the navigable spa
 
 The project provided hands-on experience implementing geometric algorithms, designing graph representations, and integrating multiple Python libraries into a complete computational pipeline.
 
-## Research Report
 
-For a more detailed explanation of the mathematical background, implementation, challenges, and results, see our full research report.
+## Project Documentation
 
-**[Read the Full Research Report (PDF)](final_report_computational_geometry.pdf)**
+For additional details about the mathematical background, implementation, and results:
+
+- **[Final Research Report](final_report.pdf)** — Full explanation of our methodology, implementation, and findings.
+- **[Project Presentation](presentation_computational_geometry.pdf)** — Visual walkthrough of the path-planning pipeline and results.
 
 ## References
 
